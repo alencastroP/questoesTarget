@@ -1,0 +1,6 @@
+// a) = 2, É o valor da soma constante de 2.
+// b) = 127, É o valor da constante multiplicação por 8.
+// c) = 49, É um dos valores do quadrado perfeito (ou valores que possuem uma raiz quadrada perfeita)
+// d) = 100, É de uma progressão aritmetica
+// e) = 13, É um dos valores da sequencia de fibonacci
+// f) = 200, É a sequencia de números que começam com D

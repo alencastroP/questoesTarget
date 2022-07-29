@@ -1,6 +1,6 @@
 
 function inverter(string) {
-    let  = invertido = "";
+    let invertido = "";
 
 // for utilizado para passar inversamento os caracteres para dentro de uma variável diferente 
 //(dada com "invertido"), assim invertendo o texto
